@@ -57,7 +57,7 @@ Compared sales of Arabica, Excelsa, Liberica, and Robusta
 
 **3.Sales by Country**
 
-![Sales by Country](https://github.com/user-attachments/assets/48799aa5-b72b-4b11-9439-5fc2f8ea5ff8)
+![Sales by Country](https://github.com/user-attachments/assets/de04cff0-e994-485a-8de3-90cb443777df)
 
 Summarized total sales per country
 
@@ -71,7 +71,7 @@ Ranked by total sales
 
 ![Loyalty Card](https://github.com/user-attachments/assets/24acaa78-0f46-4981-b814-6831370fae7a)
 
-Loyalty Card Impact on Sales:
+**Loyalty Card Impact on Sales:**
 
 > Customers without a loyalty card generated $24,216.41 in sales.
 
@@ -85,38 +85,56 @@ This suggests potential to further leverage loyalty programs to boost revenue.
 
 📈 Interactive COFFEE SALES Dashboard Features
 
-![COFFEE SALES DASHBOARD](https://github.com/user-attachments/assets/542ffc8d-c54d-4147-9ff9-022206859734)
+![COFFEE SALES DASHBOARD](https://github.com/user-attachments/assets/14da15db-e8c9-4a37-8625-c5ec834d08e2)
 
-* Built an interactive Excel dashboard with the following:
+
+
+
+*** Built an interactive Excel dashboard with the following:**
 
 * Total Sales overview
-
 * Sales trend by month/year
-
 * Sales by coffee type (slicers for Roast Type, Size, Loyalty Card)
-
 * Sales by country
-
 * Top 5 Customers (bar chart)
 
 **🛠️ Tools & Skills Used**
 
-Microsoft Excel (Pivot Tables, Charts, Dashboards)
-
-Functions: XLOOKUP, INDEX, MATCH, IF
-
-Data Cleaning & Transformation
-
-Interactive Dashboard Design
+* Microsoft Excel (Pivot Tables, Charts, Dashboards)
+* Functions: XLOOKUP, INDEX, MATCH, IF
+* Data Cleaning & Transformation
+* Interactive Dashboard Design
 
 📌 Key Insights
 
 * Identified top-performing coffee types across time periods
-
 * Highlighted country-wise sales contribution
-
 * Recognized loyal customers and their impact on revenue
-
 * Built a scalable template for future sales analysis
+
+**Conclusion & Recommendations:**
+
+**Current Observation:**
+
+Total sales: $45,134.26
+* Non-loyalty customers contribute slightly more ($24,216.41) than loyalty customers ($20,917.85).
+* Loyal customers are already a significant source of revenue but not the majority.
+
+**Insights:**
+
+* There is room to improve sales among loyalty card holders. Encouraging more customers to join the loyalty program can help increase repeat purchases.
+* Non-loyalty customers are currently driving higher sales. Strategies to convert them into loyal customers could further increase overall revenue.
+* Analyzing top-performing coffee types and targeting promotions to countries or segments with lower sales could boost overall performance.
+
+**Recommendations for Sales Improvement:**
+
+* Expand loyalty program benefits to attract more customers.
+* Promotional campaigns targeted at non-loyalty customers to encourage repeat purchases.
+* Upselling or cross-selling popular coffee types based on sales trends.
+* Country-wise marketing strategies to increase sales in underperforming regions.
+
+**Overall: The sales performance is healthy, but focusing on loyalty growth, targeted promotions, and customer conversion strategies can further improve revenue.
+**
+
 
 ✅ This project showcases strong data wrangling, Excel formula expertise, and dashboard visualization skills for business reporting.
